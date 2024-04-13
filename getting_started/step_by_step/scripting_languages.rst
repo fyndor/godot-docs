@@ -52,6 +52,11 @@ For C#, you will need an external code editor like
 now mature, you will find fewer learning resources for it compared to
 GDScript. That's why we recommend C# mainly to users who already have experience
 with the language. 
+<<<<<<< HEAD
+=======
+
+.. seealso:: To learn more about C#, head to the :ref:`C# basics <doc_c_sharp>` page.
+>>>>>>> 7480988fe (Added more information about VS and VS Code debugging)
 
 Let's look at each language's features, as well as its pros and cons.
 
